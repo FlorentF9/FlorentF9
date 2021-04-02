@@ -1,4 +1,4 @@
-[![Florent's GitHub stats](https://github-readme-stats.vercel.app/api?username=florentf9&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Florent's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorentF9&count_private=true&show_icons=true&theme=dracula) ![Florent's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentF9&exclude_repo=florentf9.github.io&hide=jupyter%20notebook&langs_count=10&theme=dracula&layout=compact)
 
 <!--
 **FlorentF9/FlorentF9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
